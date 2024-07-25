@@ -10,7 +10,7 @@ The GUI of this Window application is Designed in
 - [@itstayyabniazi](https://www.github.com/itstayyabniazi)
 
 ## Badges
-![GitHub last commit](https://img.shields.io/github/last-commit/itstayyabniazi/Projects)
+![GitHub last commit](https://img.shields.io/github/last-commit/itstayyabniazi/Electronic-Voting-Machine)
 ![MIT License](https://img.shields.io/badge/Version-0.5-blue) <br>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
