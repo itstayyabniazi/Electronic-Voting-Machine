@@ -1,9 +1,28 @@
 # Electronic-Voting-Machine
 
-Mainly these programmes are wrriten in Python. <br>
-The GUI of this Window application is Designed in 
-[Figma](https://www.figma.com) & converted to code using [TKinter Designer](https://github.com/ParthJadhav/Tkinter-Designer).
+Simply, you have to run the "main.py" file. <br>
+Its has a Graphical User Interferance, so will show the Menu. <br>
+The system have following Entities;
+1. Admin
+2. Candidate
+3. Voter
+-----------------------------------------------------------------------------
+**Functions dedicated to Admin:**
+- Can view details of Registered Candidates, Voters and complete results.
+- Can Add new Candidate.
 
+**Functions dedicated to Candidate:**
+- Can Change Password 
+- Can view his Result.
+
+**Functions dedicated to Voter:**
+- Can vote for listed Candidtae
+
+-----------------------------------------------------------------------------
+The GUI of this Window application is Designed in 
+[Figma](https://www.figma.com) & converted to code using [TKinter Designer](https://github.com/ParthJadhav/Tkinter-Designer). <br>
+Moreover, Some special fonts are used which are present in Asset folder.
+- Josefin Sons   <br>
 
 ## Authors
 
