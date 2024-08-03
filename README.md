@@ -3,20 +3,40 @@
 Simply, you have to run the "main.py" file. <br>
 Its has a Graphical User Interferance, so will show the Menu. <br>
 The system have following Entities;
-1. Admin
-2. Candidate
-3. Voter
------------------------------------------------------------------------------
-**Functions dedicated to Admin:**
-- Can view details of Registered Candidates, Voters and complete results.
-- Can Add new Candidate.
+- Admin
+- Candidate
+- Voter
+   
+## Functions dedicated to Admin: <br>
+**He can view Registered/Enrolled users;**
+- Candidate
+- Voters  <br>
 
-**Functions dedicated to Candidate:**
-- Can Change Password 
-- Can view his Result.
+**He can enroll new users;**
+- Candidate
 
-**Functions dedicated to Voter:**
+## Functions dedicated to Candidate: <br>
+**He can change his Account Password** & 
+**He can view his;**
+- No. of voters voted <br>
+
+## Functions dedicated to Voter: <br>
 - Can vote for listed Candidtae
+
+## Pre-Defined Cridentials for the entities;
+
+**Admin:** <br>
+- Username: 'admin'
+- Password: '123' <br>
+
+**Candidates:** <br>
+| Users     | Ali     | Hasan     |
+| :---      |   :---:   |      :---: |
+| CNIC  | 111     | 222 |
+| Password  | 123       | 123   |
+
+**Voters:** <br>
+- Anyone else other then the candidate can vote.
 
 -----------------------------------------------------------------------------
 The GUI of this Window application is Designed in 
