@@ -1,7 +1,7 @@
 # Electronic-Voting-Machine
 
-Simply, you have to run the "main.py" file. <br>
-Its has a Graphical User Interferance, so will show the Menu. <br>
+EVM are specialized devices used in elections to securely and efficiently capture and count votes. They serve as a modern alternative to traditional paper ballots,aiming to enhance the electoral process.  <br>
+Simply, you have to run the "main.py" file. Its has a Graphical User Interferance, so will show the Menu. <br>
 The system have following Entities;
 - Admin
 - Candidate
